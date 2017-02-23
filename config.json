@@ -1,0 +1,7 @@
+{
+    "database": "mydatabase",
+    "host": "192.168.99.100",
+    "password": "docker",
+    "port": "3306",
+    "user": "gustavo"
+}
